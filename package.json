@@ -1,7 +1,6 @@
 {
   "name": "web",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +9,16 @@
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Behruzaxi/nike.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Behruzaxi/nike/issues"
+  },
+  "homepage": "https://github.com/Behruzaxi/nike#readme",
+  "description": ""
 }
